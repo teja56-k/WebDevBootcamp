@@ -1,0 +1,16 @@
+body{
+    padding-top: 70px;
+}
+.jumbotron{
+    background-color: aquamarine;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.jumbotron:hover{
+    background-color: rebeccapurple;
+}
+h1:hover{
+    color: white;
+}
+.col-lg-4{
+    box-shadow: 0 0.4px 0.4px 0 rgba(0, 0, 0, 0.2), 0 0.4px 0.4px 0 rgba(0, 0, 0, 0.19);
+}

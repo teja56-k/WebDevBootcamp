@@ -1,0 +1,13 @@
+img{width: 30%;
+    height: 30%; 
+    margin-left: 30px; 
+    
+}
+p{ font-family: Arial, Helvetica, sans-serif;
+   font-size: 50px;
+   border-bottom: 4px solid royalblue;
+      
+}
+body{
+    background-image: url(https://i.ytimg.com/vi/mUYfkEC1Meg/maxresdefault.jpg);
+}

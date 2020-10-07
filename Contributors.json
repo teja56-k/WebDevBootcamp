@@ -18,8 +18,36 @@
     "GithubID": "SpoorthiKasarla",
     "college":"VBIT",
     "mail":"spoorthikasarla2001@gmail.com",
+
+
+  },
+  
+  {
+    "name": "jabbar shareef ",
+    "GithubID": "jabbarshareef",
+    "college":"VBIT",
+    "mail":"faizkank@gmail.com",
+  }
+
+
+  },
+ 
+
+  
+  
+  {
+    "name": "Harsha Vardhan",
+    "GithubID": "Harsha-Vardhan-Developer",
+    "college":"VBIT",
+    "mail":"ghvy999@gmail.com",
   }
   
   
-  
+  {
+    "name": "K Shanthan Reddy",
+    "GithubID": "Shanthanreddy99",
+    "college":"VBIT",
+    "mail":"shanthanreddykatukuri@gmail.com",
+  }
+    
 ]

@@ -12,6 +12,7 @@
     "GithubID": "Rohit1290",
     "college":"VBIT",
     "mail":"grohit0303@gmail.com",
+
   },
   
   {
@@ -20,8 +21,19 @@
     "college":"VBIT",
     "mail":"faizkank@gmail.com",
   }
+
+
+  },
+ 
+
   
   
+  {
+    "name": "Harsha Vardhan",
+    "GithubID": "Harsha-Vardhan-Developer",
+    "college":"VBIT",
+    "mail":"ghvy999@gmail.com",
+  }
   
   
 ]

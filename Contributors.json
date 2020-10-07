@@ -14,7 +14,18 @@
     "mail":"grohit0303@gmail.com",
 
   },
+  
+  {
+    "name": "jabbar shareef ",
+    "GithubID": "jabbarshareef",
+    "college":"VBIT",
+    "mail":"faizkank@gmail.com",
+  }
+
+
+  },
  
+
   
   
   {
@@ -23,5 +34,6 @@
     "college":"VBIT",
     "mail":"ghvy999@gmail.com",
   }
+  
   
 ]

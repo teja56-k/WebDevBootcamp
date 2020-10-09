@@ -19,42 +19,36 @@
     "GithubID": "shailu07",
     "college":"VBIT",
     "mail":"sailushiny7@gmail.com",
+  },
 
    {
     "name": "spoorthi ",
     "GithubID": "SpoorthiKasarla",
     "college":"VBIT",
     "mail":"spoorthikasarla2001@gmail.com",
-
-
-  },
+   },
   
   {
     "name": "jabbar shareef ",
     "GithubID": "jabbarshareef",
     "college":"VBIT",
     "mail":"faizkank@gmail.com",
-  }
-
-
   },
- 
 
-  
   {
     "name": "Surya ",
     "GithubID": "Gnanisurya",
     "college":"VBIT",
     "mail":"gnanisurya3@gmail.com",
 
-  }
+  },
   
   {
     "name": "Harsha Vardhan",
     "GithubID": "Harsha-Vardhan-Developer",
     "college":"VBIT",
     "mail":"ghvy999@gmail.com",
-  }
+  },
   
   
   {
@@ -62,13 +56,30 @@
     "GithubID": "Shanthanreddy99",
     "college":"VBIT",
     "mail":"shanthanreddykatukuri@gmail.com",
-  }
+  
+  },
+  
+  {
+    "name": "Kobbaji aishwarya",
+    "GithubID": "aishu01-ko",
+    "college":"VBIT",
+    "mail":"aishwaryak224@gmail.com",
+  },
+
   
   {
     "name": "Pranay",
     "GithubID": "Pranay143",
     "college":"VBIT",
     "mail":"gurrampranay143@gmail.com",
-  }
+  },
+
+  {
+    "name": "G.Keerthana",
+    "GithubID": "KeerthanaGurram",
+    "college":"VBIT",
+    "mail":"gurramkeerthanareddy@gmail.com",
+  },
+
     
 ]

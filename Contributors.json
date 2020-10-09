@@ -1,4 +1,4 @@
-[
+M[
 
   {
     "name": "K V Akhil",
@@ -80,6 +80,13 @@
     "college":"VBIT",
     "mail":"gurramkeerthanareddy@gmail.com",
   },
+
+  { 
+    "name": "K.Tejashwini",
+    "GithubID": "teja56-k",
+    "college":"VBIT",
+    "Mail":"kapparitejashwini0056@gmail.com",
+},
 
     
 ]

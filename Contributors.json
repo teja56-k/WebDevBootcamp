@@ -64,12 +64,22 @@
     "GithubID": "aishu01-ko",
     "college":"VBIT",
     "mail":"aishwaryak224@gmail.com",
-  }
+  },
+
+  
+  {
+    "name": "Pranay",
+    "GithubID": "Pranay143",
+    "college":"VBIT",
+    "mail":"gurrampranay143@gmail.com",
+  },
+
   {
     "name": "G.Keerthana",
     "GithubID": "KeerthanaGurram",
     "college":"VBIT",
     "mail":"gurramkeerthanareddy@gmail.com",
   },
+
     
 ]
